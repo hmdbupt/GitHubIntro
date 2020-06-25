@@ -6,3 +6,5 @@
 - iOS
 - Windows Operating System
 - Linux Operating System
+- Microsoft Surface
+- Smartwatch
